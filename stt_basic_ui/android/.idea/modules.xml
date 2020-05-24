@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="android/app" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.15.1/android/audioplayers.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.15.1/android/audioplayers.iml" group="android/audioplayers" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_audio_recorder-0.5.5/android/flutter_audio_recorder.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_audio_recorder-0.5.5/android/flutter_audio_recorder.iml" group="android/flutter_audio_recorder" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.4.2/android/kakao_flutter_sdk.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/kakao_flutter_sdk-0.4.2/android/kakao_flutter_sdk.iml" group="android/kakao_flutter_sdk" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+18/android/package_info.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.0+18/android/package_info.iml" group="android/package_info" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.8/android/path_provider.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.8/android/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+2/android/path_provider_macos.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+2/android/path_provider_macos.iml" group="android/path_provider_macos" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+3/android/shared_preferences.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.7+3/android/shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+9/android/shared_preferences_macos.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+9/android/shared_preferences_macos.iml" group="android/shared_preferences_macos" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/android/shared_preferences_web.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/android/shared_preferences_web.iml" group="android/shared_preferences_web" />
+      <module fileurl="file://D:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.0+1/android/sqflite.iml" filepath="D:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.3.0+1/android/sqflite.iml" group="android/sqflite" />
+    </modules>
+  </component>
+</project>
